@@ -1,7 +1,8 @@
-*.mp4
 frames
 text_frames
-*.png
+[^.illustrations/]*.png
+[^.illustrations/]*.mp4
+[^.illustrations/]*.jpg
 venv
 *.env
 .vscode
