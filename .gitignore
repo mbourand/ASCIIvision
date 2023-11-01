@@ -1,0 +1,8 @@
+*.mp4
+frames
+text_frames
+*.png
+venv
+*.env
+.vscode
+__pycache__
